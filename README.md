@@ -1,4 +1,4 @@
-# SimpleZoomDistortionShader
+# Simple Zoom Distortion Shader
 Shader for distorting the image behind the material.
 
 Use this asset if you need to create a magnification effect behind a 3D object.
